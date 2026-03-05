@@ -1,4 +1,4 @@
-package repository;
+package sv.edu.udb.repository.domain;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
